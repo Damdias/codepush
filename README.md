@@ -6,3 +6,4 @@ Setup code push
 5. Build react native app: cd android && ./gradlew assembleRelease; cd ..
 6. Troubleshoot: Failed to capture snapshot of input files for task ‘Remove node_module and run “npm install”
 7. Code-push: code-push release-react codepushApp android
+8. code-push Api: https://github.com/Microsoft/react-native-code-push/blob/master/docs/api-js.md#codepushsync
